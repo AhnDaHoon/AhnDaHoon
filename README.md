@@ -19,3 +19,5 @@
 <code><img alt = "JPA" height="20" src="https://hibernate.org/images/hibernate-logo.svg"> JPA</code>
 <code><img alt = "Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/oracle_original_logo_icon_146401.png"> Oracle</code>
 <code><img alt = "MySQL" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mysql_original_wordmark_logo_icon_146417.png"> MySQL</code>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
