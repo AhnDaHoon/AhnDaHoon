@@ -7,4 +7,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AhnDaHoon&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhnDaHoon0&theme=flat&column=7)](https://github.com/AhnDaHoon/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/dkssud8150/)
