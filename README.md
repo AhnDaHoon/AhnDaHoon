@@ -16,6 +16,6 @@
 <code><img alt = "Selenium" height="20" src="https://i.namu.wiki/i/qmvpyKr85riVo68yywfxkO55YDe9WpeTRUFUv7FPTmA6OdeiDmCTTKSbCOCJkAIeAKMwNNEMiHOpPK318GDJFYXebycJXE4KO_cHwj9V08DIueGvAk4H_gxyLJie0gasO4IIIdGY7f260SZ7V6iDFw.webp"> Selenium</code>
 <code><img alt = "jQuery" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/jquery_plain_wordmark_logo_icon_146445.png"> jQuery</code>
 <code><img alt = "redis" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/redis_original_wordmark_logo_icon_146369.png"> redis</code>
-<code><img alt = "JPA" height="20" src="![image](https://github.com/AhnDaHoon/AhnDaHoon/assets/82018440/8a808b1a-f011-4b57-9670-007e2e5a3e00)"> JPA</code>
+<code><img alt = "JPA" height="20" src="https://hibernate.org/images/hibernate-logo.svg"> JPA</code>
 <code><img alt = "Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/oracle_original_logo_icon_146401.png"> Oracle</code>
 <code><img alt = "MySQL" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/mysql_original_wordmark_logo_icon_146417.png"> MySQL</code>
