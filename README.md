@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=반갑습니다.&fontAlign=70&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=안녕하세요.&fontAlign=70&stroke=black)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnDaHoon&exclude_repo=AhnDaHoon.github.io&layout=compact&theme=tokyonight" />
