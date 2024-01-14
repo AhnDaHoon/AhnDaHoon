@@ -13,12 +13,12 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: $
-          USERNAME: $
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name AhnDaHoon
-          git config user.email config  psycn@naver.com
+          git config AhnDaHoon github-actions
+          git config psycn@naver.com github-actions@github.com
           git add -A .
           git commit -m "generated"
           git push
