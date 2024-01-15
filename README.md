@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=2년차백엔드개발자안다훈입니다.&fontAlign=70&stroke=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Hi&fontAlign=70&stroke=000000)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnDaHoon&exclude_repo=AhnDaHoon.github.io&layout=compact&theme=tokyonight" />
