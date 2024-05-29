@@ -11,7 +11,7 @@
 
 <code><img alt = "Java" height="20" src="https://cdn.icon-icons.com/icons2/81/PNG/256/java_15498.png"> Java</code>
 <code><img alt = "Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> Python</code>
-<code><img alt = "JavaScript" height="20" src="https://i.namu.wiki/i/DSnv9SvW9FfwbQj71hLIAE3fKtYQZ2QIJJE4Keg8D_OMfBKcx3Sn6oFGCtLu0wflMq2NOMpJ6dbGW-UojoRkbK56Dnj7_VPq0sisAYb4JDEOj_Eda_ir-144lrcoMPlIixeZ4Mh4aTvprawINUdjLA.svg"> JavaScript</code>
+<code><img alt = "JavaScript" height="20" src="https://i.namu.wiki/i/K1dVAjruJhrHtBmUA6O_AcmNEPcXDvL4Ae2helgVVfDafWDnq4P5Av5NRk8RHi_Iq6l9M5XcZ2cOe2oX02eIEIfE9uCv3xRG4OFXxZQbYIhG0uD7nMr3r7PWasxEgF6ZwZVVaV3N-Y6NF2KdMRFt9Q.svg"> JavaScript</code>
 <code><img alt = "Spring" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/120px-Spring_Boot.svg.png"> Spring</code>
 <code><img alt = "Selenium" height="20" src="https://www.selenium.dev/favicons/favicon.ico"> Selenium</code>
 <code><img alt = "jQuery" height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/jquery_plain_wordmark_logo_icon_146445.png"> jQuery</code>
